@@ -1,0 +1,19 @@
+{
+  "name": "steam-scraper",
+  "version": "1.0.0",
+  "description": "Scrap the steam subIds with this handy tool!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "veloxSZ",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15",
+    "readline": "^1.3.0"
+  }
+}
